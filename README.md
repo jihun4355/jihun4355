@@ -76,112 +76,112 @@ UART·SPI·I2C와 같은 통신 프로토콜 설계 및 UVM 기반 Verification 
 - **GitHub**: https://github.com/jihun4355  
 
 ---
+---
 
-🎉 📁 All Projects — 전체 GitHub 프로젝트 모음
+## 🎉 📁 All Projects — 전체 GitHub 프로젝트 모음
 
-아래는 제가 진행한 모든 GitHub 프로젝트의 요약입니다.
-자세한 내용과 전체 코드는 각 레포지토리에서 확인하실 수 있습니다.
+아래는 제가 진행한 모든 GitHub 프로젝트의 요약입니다.  
+**자세한 내용과 전체 코드는 각 레포지토리에서 확인하실 수 있습니다.**
 
-🔷 FPGA & SystemVerilog / RISC-V Projects
-🔹 RV32_I
+---
 
-RISC-V RV32I 단일사이클 CPU
+# 🔷 FPGA & SystemVerilog / RISC-V Projects
 
-ALU, Immediate, Register File, Control Unit 직접 설계
+### 🔹 **RV32_I**
+- RISC-V RV32I 단일사이클 CPU  
+- Register File, ALU, Immediate, Control Unit 직접 설계  
+- 명령어 실행 검증 포함  
 
-명령어 실행 검증 포함
+---
 
-🔹 systemverilog_uart_fifo_verification
+### 🔹 **systemverilog_uart_fifo_verification**
+- UART + FIFO + SystemVerilog TB 검증  
+- Driver / Monitor / Scoreboard 구조  
+- TX/RX + FIFO 기능 정상성 검증  
 
-UART + FIFO + SV Testbench 검증 프로젝트
+---
 
-Driver / Monitor / Scoreboard 구조 구현
+### 🔹 **I2C_VGA**
+- I2C 통신 프로토콜 구현  
+- VGA 타이밍 생성 & Pixel 출력 테스트  
+- Hard/Soft timing 분석 경험 포함  
 
-UART TX/RX 기능 및 FIFO 안정성 검증
+---
 
-🔹 I2C_VGA
+### 🔹 **stopwatch_DHT11_sr04**
+- FPGA 기반 스톱워치 + 초음파 센서 + 온·습도 센서 통합  
+- UART ↔ PC 양방향 데이터 송수신  
+- FSM 기반 제어 설계  
 
-I2C 통신 + VGA 디스플레이 출력 프로젝트
+---
 
-I2C Master 설계
+### 🔹 **stopwatch / uart_stopwatch**
+- Verilog 기반 스톱워치 기능 구현  
+- 시/분/초/밀리초 카운트  
+- 버튼 디바운스 처리 + FND 출력  
 
-VGA 타이밍 기반 픽셀 출력 테스트
+---
 
-🔹 stopwatch_DHT11_sr04
+# 🔷 AI · ML · Data Projects
 
-DHT11 · SR04 센서 + UART 통합 FPGA 프로젝트
+### 🔹 **AI_closet-face**
+- 얼굴 특징 기반 AI 의상 추천 모델  
+- Jupyter Notebook 기반 이미지 처리  
 
-스톱워치 + 초음파 센서 + 온습도 센서 연동
+---
 
-UART로 PC와 실시간 데이터 송수신
+### 🔹 **AI_closet-weather**
+- 날씨 기반 의상 추천 모델  
+- 기온/습도 기반 로직 구현 및 실험  
 
-🔹 stopwatch / uart_stopwatch
+---
 
-FPGA 스톱워치 구현
+### 🔹 **AI_closet**
+- AI 의상 추천 시스템 초기 버전  
+- 사용자 입력 기반 추천 모델 실습  
 
-Verilog 기반 시·분·초·밀리초 카운트
+---
 
-FND 출력, 버튼 디바운스 처리
+### 🔹 **seoul_weather_5_m**
+- 서울 날씨 데이터 분석 프로젝트  
+- Python 기반 시각화 및 패턴 분석  
 
-🔷 AI · ML · Data Projects
-🔹 AI_closet-face
+---
 
-얼굴 기반 의상 추천 얼굴 특징 분석 모델
+### 🔹 **health1**
+- 운동 기록 및 체성분 분석 시스템  
+- 그래프 시각화 + BMI 계산 기능 포함  
 
-Jupyter Notebook 기반 이미지 분석
+---
 
-🔹 AI_closet-weather
+### 🔹 **daily_code**
+- Python 연습 코드 및 알고리즘 모음  
 
-날씨 기반 의상 추천 모델
+---
 
-온도/습도 정보 기반 추천 로직 구현
+# 🔷 Web / Application Projects
 
-AI 의상 추천 시스템 초기 버전
+### 🔹 **weather-playlist**
+- 날씨 기반 음악 추천 웹사이트  
+- OpenWeather API 사용  
+- HTML/CSS/JS 기반 UI  
 
-사용자 입력 기반 추천 모델 실험
+---
 
-🔹 seoul_weather_5_m
+### 🔹 **to-do-list**
+- Python 기반 To-Do 앱  
+- CRUD 기능 포함 템플릿 프로젝트  
 
-서울 지역 날씨 데이터 분석 프로젝트
+---
 
-Python 기반 기온·습도 데이터 시각화
+### 🔹 **g6**
+- Fork 기반 FastAPI CMS 분석 프로젝트  
+- Python 백엔드 구조 학습 목적  
 
-🔹 health1
-
-운동 기록 시각화 시스템
-
-체중 · 근육량 · 기록 그래프 분석
-
-BMI 계산 기능 포함
-
-🔹 daily_code
-
-Python 연습 코드 모음
-
-알고리즘 및 문법 학습용 스크립트
-
-🔷 Web / Application Projects
-🔹 weather-playlist
-
-날씨 기반 음악 추천 웹사이트
-
-OpenWeather API 연결
-
-날씨 조건별 음악 분류 및 추천
-
-🔹 to-do-list
-
-Python 기반 간단한 할 일 관리 앱
-
-CRUD 기능 포함 템플릿 프로젝트
-
-🔹 g6
-
-Fork 기반 Python CMS 프로젝트 실습용
-
-FastAPI 기반 CMS 구조 분석
+---
 
 
-📎 각 프로젝트의 전체 코드, 실행 결과, 구조 설명은  
-해당 GitHub Repository 내 문서를 통해 확인하실 수 있습니다.
+
+📎 **각 프로젝트의 전체 코드, 실행 결과, 구조 설명은  
+해당 GitHub Repository 내 문서를 통해 확인하실 수 있습니다.**
 
