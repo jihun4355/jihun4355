@@ -108,8 +108,6 @@ UART·SPI·I2C와 같은 통신 프로토콜 설계 및 UVM 기반 Verification 
 
 ---
 
----
-
 ## 🎉 📁 All Projects — 전체 GitHub 프로젝트 모음
 
 아래는 제가 진행한 전체 GitHub 프로젝트를 카드 형태로 정리한 것입니다.  
