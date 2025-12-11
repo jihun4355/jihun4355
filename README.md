@@ -76,111 +76,168 @@ UART·SPI·I2C와 같은 통신 프로토콜 설계 및 UVM 기반 Verification 
 - **GitHub**: https://github.com/jihun4355  
 
 ---
+
+
+## 📁 All Projects — Card UI Version
+
+아래는 제가 진행한 전체 GitHub 프로젝트를 카드 형태로 정리한 것입니다.  
+각 카드를 클릭하면 해당 Repository로 이동합니다.
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+
+<!-- Card 1 -->
+<td align="center" width="280">
+  <a href="https://github.com/jihun4355/RV32_I">
+    <img src="https://via.placeholder.com/250x140/007bff/ffffff?text=RV32I+CPU" width="250">
+    <br><br>
+    <b>RV32_I</b>
+  </a>
+  <br>
+  <sub>RISC-V 단일사이클 CPU 설계</sub>
+</td>
+
+<!-- Card 2 -->
+<td align="center" width="280">
+  <a href="https://github.com/jihun4355/systemverilog_uart_fifo_verification">
+    <img src="https://via.placeholder.com/250x140/4c4cff/ffffff?text=UART+FIFO+Verify" width="250">
+    <br><br>
+    <b>UART + FIFO Verification</b>
+  </a>
+  <br>
+  <sub>SV 기반 Driver/Monitor/Scoreboard 검증</sub>
+</td>
+
+<!-- Card 3 -->
+<td align="center" width="280">
+  <a href="https://github.com/jihun4355/I2C_VGA">
+    <img src="https://via.placeholder.com/250x140/0099cc/ffffff?text=I2C+VGA" width="250">
+    <br><br>
+    <b>I2C_VGA</b>
+  </a>
+  <br>
+  <sub>I2C 통신 + VGA 영상 출력</sub>
+</td>
+
+</tr>
+<tr>
+
+<!-- Card 4 -->
+<td align="center" width="280">
+  <a href="https://github.com/jihun4355/stopwatch_DHT11_sr04">
+    <img src="https://via.placeholder.com/250x140/ff9900/ffffff?text=Sensor+System" width="250">
+    <br><br>
+    <b>stopwatch_DHT11_sr04</b>
+  </a>
+  <br>
+  <sub>온습도 + 초음파 센서 통합 FPGA 시스템</sub>
+</td>
+
+<!-- Card 5 -->
+<td align="center" width="280">
+  <a href="https://github.com/jihun4355/weather-playlist">
+    <img src="https://via.placeholder.com/250x140/ff6666/ffffff?text=Weather+Music" width="250">
+    <br><br>
+    <b>weather-playlist</b>
+  </a>
+  <br>
+  <sub>날씨 기반 음악 추천 웹사이트</sub>
+</td>
+
+<!-- Card 6 -->
+<td align="center" width="280">
+  <a href="https://github.com/jihun4355/health1">
+    <img src="https://via.placeholder.com/250x140/28a745/ffffff?text=Health+Analyzer" width="250">
+    <br><br>
+    <b>health1</b>
+  </a>
+  <br>
+  <sub>헬스 기록 분석 & 시각화 도구</sub>
+</td>
+
+</tr>
+<tr>
+
+<!-- Card 7 -->
+<td align="center" width="280">
+  <a href="https://github.com/jihun4355/AI_closet-face">
+    <img src="https://via.placeholder.com/250x140/cc66ff/ffffff?text=AI+Closet+Face" width="250">
+    <br><br>
+    <b>AI_closet-face</b>
+  </a>
+  <br>
+  <sub>얼굴 기반 의상 추천 AI 모델</sub>
+</td>
+
+<!-- Card 8 -->
+<td align="center" width="280">
+  <a href="https://github.com/jihun4355/AI_closet-weather">
+    <img src="https://via.placeholder.com/250x140/cc33cc/ffffff?text=AI+Weather+Closet" width="250">
+    <br><br>
+    <b>AI_closet-weather</b>
+  </a>
+  <br>
+  <sub>날씨 기반 의상 추천 AI 모델</sub>
+</td>
+
+<!-- Card 9 -->
+<td align="center" width="280">
+  <a href="https://github.com/jihun4355/AI_closet">
+    <img src="https://via.placeholder.com/250x140/9933ff/ffffff?text=AI+Closet" width="250">
+    <br><br>
+    <b>AI_closet</b>
+  </a>
+  <br>
+  <sub>AI 의상 추천 시스템 초기 버전</sub>
+</td>
+
+</tr>
+<tr>
+
+<!-- Card 10 -->
+<td align="center" width="280">
+  <a href="https://github.com/jihun4355/seoul_weather_5_m">
+    <img src="https://via.placeholder.com/250x140/33cccc/ffffff?text=Weather+Analytics" width="250">
+    <br><br>
+    <b>seoul_weather_5_m</b>
+  </a>
+  <br>
+  <sub>서울 기온/습도 데이터 분석</sub>
+</td>
+
+<!-- Card 11 -->
+<td align="center" width="280">
+  <a href="https://github.com/jihun4355/to-do-list">
+    <img src="https://via.placeholder.com/250x140/6666ff/ffffff?text=To-Do+App" width="250">
+    <br><br>
+    <b>to-do-list</b>
+  </a>
+  <br>
+  <sub>Python 기반 작업 관리 앱</sub>
+</td>
+
+<!-- Card 12 -->
+<td align="center" width="280">
+  <a href="https://github.com/jihun4355/daily_code">
+    <img src="https://via.placeholder.com/250x140/999999/ffffff?text=Daily+Code" width="250">
+    <br><br>
+    <b>daily_code</b>
+  </a>
+  <br>
+  <sub>Python 연습 코드 모음</sub>
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
 ---
-
-## 🎉 📁 All Projects — 전체 GitHub 프로젝트 모음
-
-아래는 제가 진행한 모든 GitHub 프로젝트의 요약입니다.  
-**자세한 내용과 전체 코드는 각 레포지토리에서 확인하실 수 있습니다.**
-
----
-
-# 🔷 FPGA & SystemVerilog / RISC-V Projects
-
-### 🔹 **RV32_I**
-- RISC-V RV32I 단일사이클 CPU  
-- Register File, ALU, Immediate, Control Unit 직접 설계  
-- 명령어 실행 검증 포함  
-
----
-
-### 🔹 **systemverilog_uart_fifo_verification**
-- UART + FIFO + SystemVerilog TB 검증  
-- Driver / Monitor / Scoreboard 구조  
-- TX/RX + FIFO 기능 정상성 검증  
-
----
-
-### 🔹 **I2C_VGA**
-- I2C 통신 프로토콜 구현  
-- VGA 타이밍 생성 & Pixel 출력 테스트  
-- Hard/Soft timing 분석 경험 포함  
-
----
-
-### 🔹 **stopwatch_DHT11_sr04**
-- FPGA 기반 스톱워치 + 초음파 센서 + 온·습도 센서 통합  
-- UART ↔ PC 양방향 데이터 송수신  
-- FSM 기반 제어 설계  
-
----
-
-### 🔹 **stopwatch / uart_stopwatch**
-- Verilog 기반 스톱워치 기능 구현  
-- 시/분/초/밀리초 카운트  
-- 버튼 디바운스 처리 + FND 출력  
-
----
-
-# 🔷 AI · ML · Data Projects
-
-### 🔹 **AI_closet-face**
-- 얼굴 특징 기반 AI 의상 추천 모델  
-- Jupyter Notebook 기반 이미지 처리  
-
----
-
-### 🔹 **AI_closet-weather**
-- 날씨 기반 의상 추천 모델  
-- 기온/습도 기반 로직 구현 및 실험  
-
----
-
-### 🔹 **AI_closet**
-- AI 의상 추천 시스템 초기 버전  
-- 사용자 입력 기반 추천 모델 실습  
-
----
-
-### 🔹 **seoul_weather_5_m**
-- 서울 날씨 데이터 분석 프로젝트  
-- Python 기반 시각화 및 패턴 분석  
-
----
-
-### 🔹 **health1**
-- 운동 기록 및 체성분 분석 시스템  
-- 그래프 시각화 + BMI 계산 기능 포함  
-
----
-
-### 🔹 **daily_code**
-- Python 연습 코드 및 알고리즘 모음  
-
----
-
-# 🔷 Web / Application Projects
-
-### 🔹 **weather-playlist**
-- 날씨 기반 음악 추천 웹사이트  
-- OpenWeather API 사용  
-- HTML/CSS/JS 기반 UI  
-
----
-
-### 🔹 **to-do-list**
-- Python 기반 To-Do 앱  
-- CRUD 기능 포함 템플릿 프로젝트  
-
----
-
-### 🔹 **g6**
-- Fork 기반 FastAPI CMS 분석 프로젝트  
-- Python 백엔드 구조 학습 목적  
-
----
-
-
 
 📎 **각 프로젝트의 전체 코드, 실행 결과, 구조 설명은  
 해당 GitHub Repository 내 문서를 통해 확인하실 수 있습니다.**
