@@ -1,11 +1,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:0066ff&height=230&section=header&text=Welcome%20to%20Jihun's%20GitHub!&fontSize=40&fontColor=ffffff&fontAlignY=35" />
 </p>
+
+<p align="center"><b>📌 저의 더 자세한 프로필,프로젝트 스킬 설명은 아래 Notion 포트폴리오에서 확인하실 수 있습니다.</b></p>
+
 <p align="center">
   <a href="https://www.notion.so/2c606f9b26c880cf8f9fcbbac5c88c5f">
     <img src="https://img.shields.io/badge/Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 </p>
+
 
 
 ---
