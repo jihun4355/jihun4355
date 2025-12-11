@@ -110,7 +110,6 @@ UART·SPI·I2C와 같은 통신 프로토콜 설계 및 UVM 기반 Verification 
 
 ## 🎉 📁 All Projects — 전체 GitHub 프로젝트 모음
 
-아래는 제가 진행한 전체 GitHub 프로젝트를 카드 형태로 정리한 것입니다.  
 각 카드를 클릭하면 해당 Repository로 이동합니다.
 
 <br>
@@ -208,5 +207,5 @@ UART·SPI·I2C와 같은 통신 프로토콜 설계 및 UVM 기반 Verification 
 
 ---
 
-📎 **모든 프로젝트의 전체 코드와 자세한 문서 내용은  
+📎 **더 많은 프로젝트와 전체 코드와 자세한 문서 내용은  
 각 GitHub Repository에서 확인하실 수 있습니다.**
