@@ -7,7 +7,7 @@
 # 👋 **안녕하세요 유지훈입니다.**
 
 💡 **FPGA / Embedded System / RISC-V CPU / AMBA APB / Digital Verification**  
-💡 **기술 기반 문제 해결 및 기술영업·IT 컨설팅 역량을 함께 갖춘 엔지니어**
+💡 **기술과 사용자 요구를 연결해 실질적인 해결책을 만들어가는 엔지니어입니다.**
 
 저는 디지털 회로·FPGA 설계부터 버스 통신(APB, AXI4-Lite), RISC-V CPU 구현,  
 UART·SPI·I2C와 같은 통신 프로토콜 설계 및 UVM 기반 Verification 경험까지 보유하고 있습니다.  
