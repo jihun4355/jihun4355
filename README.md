@@ -111,13 +111,10 @@ UART·SPI·I2C와 같은 통신 프로토콜 설계 및 UVM 기반 Verification 
 **기술 이해 + 문제 해결 + 고객 커뮤니케이션**이 요구되는 분야에 강점을 갖고 있습니다.
 
 ---
-
-
 ## 📫 Contact
-[![Email Badge](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwg4355@naver.com)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jihun4355)
-[![Notion Badge](https://img.shields.io/badge/Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2c606f9b26c880cf8f9fcbbac5c88c5f)
-
+- **Email**: dwg4355@naver.com  
+- **GitHub**: https://github.com/jihun4355  
+- **Notion Portfolio**: https://www.notion.so/2c606f9b26c880cf8f9fcbbac5c88c5f
 ---
 
 ## 🎉 📁 All Projects — 전체 GitHub 프로젝트 모음
