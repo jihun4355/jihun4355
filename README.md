@@ -61,41 +61,6 @@ UART·SPI·I2C와 같은 통신 프로토콜 설계 및 UVM 기반 Verification 
 
 ---
 
-## 🧩 **Main Projects**
-
-### 🔹 **RISC-V RV32I CPU + APB Bus + UART Peripheral**
-- 단일사이클 및 멀티사이클 CPU 구현  
-- APB Master 설계 및 UART TX/RX 연결  
-- C Application 기반 실행 검증  
-
----
-
-### 🔹 **I2C + SPI 통신 설계 & UVM 검증**
-- Master-Slave 구조  
-- START/STOP/ACK 타이밍 분석  
-- Logic Analyzer 기반 디버깅 경험  
-
----
-
-### 🔹 **UART + FIFO + Stopwatch / Watch System**
-- UART 기반 시간 제어 기능  
-- FIFO Buffer로 안정적 통신 처리  
-- FSM 기반 스톱워치 / 시계 기능 구현  
-
----
-
-### 🔹 **SR04 초음파 + DHT11 온습도 + UART 통합 시스템**
-- 3개의 센서 동시 제어  
-- 명령 기반 실시간 측정 데이터 통신 시스템 설계  
-
----
-
-### 🔹 **FPGA 영상 처리 프로젝트 (Cartoon / Pixel / Filter)**
-- 카메라 입력 기반 실시간 영상 처리  
-- 블록 기반 필터링 구조 구현  
-
----
-
 ## 🎯 **What I Aim For**
 저는 기술 구현을 넘어서  
 **"왜 이 기술이 필요한가?"**, **"고객의 문제를 어떻게 해결하는가?"**  
@@ -112,4 +77,4 @@ UART·SPI·I2C와 같은 통신 프로토콜 설계 및 UVM 기반 Verification 
 
 ---
 
-_Always learning. Always building. Let's connect!_
+
