@@ -16,7 +16,6 @@ UART·SPI·I2C와 같은 통신 프로토콜 설계 및 UVM 기반 Verification 
 기술을 이해하기 쉬운 방식으로 해결책을 제시하는 **기술커뮤니케이션 역량**도 함께 갖추고 있습니다.
 
 ---
-
 ## 🚀 Tech Stacks
 
 <table align="center">
@@ -28,36 +27,68 @@ UART·SPI·I2C와 같은 통신 프로토콜 설계 및 UVM 기반 Verification 
 <tr>
 <td align="center">
 
-<img src="https://img.shields.io/badge/Verilog-0097e6?style=for-the-badge&logoColor=white" />
+<!-- HDL / FPGA -->
+<img src="https://img.shields.io/badge/Verilog-007acc?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/SystemVerilog-005f99?style=for-the-badge&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/RISC--V-003f8c?style=for-the-badge&logo=riscv&logoColor=white" />
 <img src="https://img.shields.io/badge/FPGA%20(Basys3)-0047ab?style=for-the-badge&logoColor=white" />
 <br>
+
+<!-- Verification -->
 <img src="https://img.shields.io/badge/UVM-4b0082?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Embedded%20C-006600?style=for-the-badge&logo=c&logoColor=white" />
+
+<!-- Embedded -->
+<img src="https://img.shields.io/badge/Embedded%20C-2e8b57?style=for-the-badge&logo=c&logoColor=white" />
 <br>
+
+<!-- Python / ML -->
 <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-4c8cff?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Matplotlib-005caa?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Matlab-ff8800?style=for-the-badge&logoColor=white" />
+<br>
+
+<!-- AI -->
+<img src="https://img.shields.io/badge/Jupyter-ff7f0e?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5c3ee8?style=for-the-badge&logo=opencv&logoColor=white" />
+<br>
+
+<!-- Web -->
+<img src="https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+<br>
 
 </td>
 
 <td align="center">
 
+<!-- FPGA/Simulation Tools -->
 <img src="https://img.shields.io/badge/Vivado-ffcc00?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/ModelSim-003366?style=for-the-badge&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Synopsys%20VCS-990000?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Logic%20Analyzer-333333?style=for-the-badge&logoColor=white" />
 <br>
+
+<!-- Development Tools -->
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-0073d1?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" />
 <br>
+<img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-ff7f0e?style=for-the-badge&logo=jupyter&logoColor=white" />
+<br>
+
+<!-- OS / Platforms -->
 <img src="https://img.shields.io/badge/Ubuntu-e95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078d6?style=for-the-badge&logo=windows&logoColor=white" />
 
 </td>
 </tr>
 </table>
+
 
 ---
 
