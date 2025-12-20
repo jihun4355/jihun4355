@@ -210,8 +210,8 @@ UART·SPI·I2C와 같은 통신 프로토콜 설계 및 UVM 기반 Verification 
 </td>
 
 <td align="center" width="280">
-  <a href="https://github.com/jihun4355/UVM_Verification_Overview">
-    <b>UVM Verification Overview</b>
+  <a href="https://github.com/jihun4355/EDAplayground_4bit_adder">
+    <b>EDAplayground_4bit_adder</b>
   </a>
   <br>
   <sub>UVM 구조 · TLM · Factory · RAL 정리</sub>
