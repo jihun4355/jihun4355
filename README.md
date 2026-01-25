@@ -172,13 +172,13 @@ UART·SPI·I2C와 같은 통신 프로토콜 설계 및 UVM 기반 Verification 
 <tr>
 
 <td align="center" width="280">
-  <a href="https://github.com/jihun4355/AI_closet-face"><b>AI_closet-face</b></a>
+  <a href="https://github.com/jihun4355AI_closet-face-"><b>AI_closet-face-</b></a>
   <br>
   <sub>얼굴 기반 의상 추천 AI 모델</sub>
 </td>
 
 <td align="center" width="280">
-  <a href="https://github.com/jihun4355/AI_closet-weather"><b>AI_closet-weather</b></a>
+  <a href="https://github.com/jihun4355/AI_closet-weather-"><b>AI_closet-weather-</b></a>
   <br>
   <sub>날씨 기반 의상 추천 AI 모델</sub>
 </td>
