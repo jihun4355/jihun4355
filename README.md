@@ -183,11 +183,11 @@ UART·SPI·I2C와 같은 통신 프로토콜 설계 및 UVM 기반 Verification 
   <sub>날씨 기반 의상 추천 AI 모델</sub>
 </td>
 
-<td align="center" width="280">
+<!-- <td align="center" width="280">
   <a href="https://github.com/jihun4355/AI_closet"><b>AI_closet</b></a>
   <br>
   <sub>AI 의상 추천 시스템 초기 버전</sub>
-</td>
+</td> -->
 
 </tr>
 <tr>
